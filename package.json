@@ -1,0 +1,8 @@
+{
+  "name": "draft-js-test-plugin",
+  "version": "0.0.1",
+  "description": "Testing plugin creation",
+  "main": "index.js",
+  "author": "Alex Kibler, Engine Commerce",
+  "license": "MIT"
+}
